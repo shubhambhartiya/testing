@@ -1,0 +1,5 @@
+/home/shubham/android/Testing/app/build/intermediates/classes/debug
+/home/shubham/android/Testing/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c9b3669bb61db86049f302a9416873a1b2654c05.jar
+/home/shubham/android/Testing/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d9cbecc7b4453e2bd9848ab4d3ed2398e2ce6034.jar
+/home/shubham/android/Testing/app/build/intermediates/pre-dexed/debug/classes-be96cf651a70b552029bfb3bbc237c462e52a026.jar
+/home/shubham/android/Testing/app/build/intermediates/pre-dexed/debug/classes-52bf8b2fa76f29fa273017c3005e648cc99c91f3.jar
